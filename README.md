@@ -35,8 +35,8 @@ Koleksi skrip Python untuk memudahkan tugas harian dalam pengurusan fail dan dat
 
 📫 Cara Hubungi Saya
 
- **LinkedIn:** [linkedin.com/in/username-anda](link-anda)
- **Email:** [email-anda@gmail.com]
+ **LinkedIn:** [linkedin.com/in/amirulhafizmy]([link-anda](https://www.linkedin.com/in/amirulhafizmy/))
+ **Email:** [amirulmmiii@gmail.com]
 
 ---
 
