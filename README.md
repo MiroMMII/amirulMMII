@@ -24,7 +24,7 @@ Saya merupakan seorang yang sangat meminati dunia **Cloud Computing** dan **Arti
 
 📂 Projek Pilihan
 
-🤖 [AWS Cost Predictor AI](link-ke-projek-anda)
+🤖 [AWS Cost Predictor AI]([link-ke-projek-anda](https://github.com/MiroMMII/amirulMMII/blob/main/aws_predictor.ipynb))
 Model Machine Learning ringkas yang meramal kos penggunaan AWS bulanan berdasarkan trend trafik harian.
 * **Tech:** Python, Scikit-Learn, Pandas, Matplotlib.
 
