@@ -24,7 +24,7 @@ Saya merupakan seorang yang sangat meminati dunia **Cloud Computing** dan **Arti
 
 📂 Projek Pilihan
 
-🤖 [AWS Cost Predictor AI]([https://github.com/MiroMMII/amirulMMII/blob/main/aws_predictor.ipynb])
+🤖 [AWS Cost Predictor AI]((https://github.com/MiroMMII/amirulMMII/blob/main/aws_predictor.ipynb))
 Model Machine Learning ringkas yang meramal kos penggunaan AWS bulanan berdasarkan trend trafik harian.
 * **Tech:** Python, Scikit-Learn, Pandas, Matplotlib.
 
@@ -35,9 +35,9 @@ Koleksi skrip Python untuk memudahkan tugas harian dalam pengurusan fail dan dat
 
 📫 Cara Hubungi Saya
 
- **LinkedIn:** [linkedin.com/in/amirulhafizmy]([https://www.linkedin.com/in/amirulhafizmy/])
+ **LinkedIn:** [linkedin.com/in/amirulhafizmy]((https://www.linkedin.com/in/amirulhafizmy/))
  
- **Email:** [amirulmmiii@gmail.com]
+ **Email:** (amirulmmiii@gmail.com)
 
 ---
 
